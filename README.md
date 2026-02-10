@@ -1,10 +1,4 @@
 # Portfólio de Estruturas de Dados
-
-**Aluno:** [Seu Nome Aqui]  
-**Matrícula:** [Sua Matrícula]  
-**Semestre:** 2026.1  
-**Professor:** Luís Aramis  
-
 ## Sobre este Repositório
 Este repositório contém as atividades práticas desenvolvidas durante a disciplina de **Estruturas de Dados** do curso de Ciência de Dados e IA do IBEMEC.
 
@@ -33,3 +27,4 @@ Este espaço é reservado para o registro dos tempos de execução do script `be
    ```bash
    python hello.py
    ```
+
