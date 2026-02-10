@@ -107,4 +107,5 @@ Rode novamente. O tempo aumentou linearmente (10x) ou exponencialmente? E a mem�
    git push -u origin main
    ```
 
-**Parabéns!** Você configurou seu ambiente de Engenharia de Dados. 🚀
+**Parabéns!** Você configurou seu ambiente. 🚀
+
