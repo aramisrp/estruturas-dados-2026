@@ -66,3 +66,7 @@ venv.bak/
 # IDEs
 .vscode/
 .idea/
+
+# Custom
+token
+*.token
